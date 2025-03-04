@@ -1,10 +1,7 @@
 "this is file 1"
 "chabges done by newone to see the conflicts "
+"i am here in the changing direction"
 
-"changes hai "
-
-"uncommited changes"git branch
-
-
-"done we will check the merging confict "
-"i am the master"
+"we are checking through the git diff--staged"
+"i am hre  "
+"i am the reasoin behind the confluict "
