@@ -3,3 +3,4 @@
 "i am here in the changing direction"
 
 "we are checking through the git diff--staged"
+"i am hre  "
