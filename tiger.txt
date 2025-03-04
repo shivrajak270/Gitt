@@ -1,2 +1,6 @@
 "i am the tiger "
+<<<<<<< HEAD
 "i am actually another change by the way "
+=======
+"changes done in newone"
+>>>>>>> newone
