@@ -3,3 +3,7 @@
 
 "changes hai "
 
+"uncommited changes"git branch
+
+
+"done we will check the merging confict "
